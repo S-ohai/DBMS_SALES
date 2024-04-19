@@ -1,0 +1,51 @@
+ID,Order Date,CustomerName,State,City,Order ID,Amount,Profit,Quantity,Category,Sub-Category,PaymentMode
+B-26001,1/1/2019,Anushka,Maharashtra,Mumbai,B-26001,200,50,3,Clothing,Shirts,Credit Card
+B-26002,1/2/2019,Arjun,Karnataka,Bangalore,B-26002,150,30,2,Electronics,Phones,Online
+B-26003,1/3/2019,Amit,Gujarat,Ahmedabad,B-26003,220,60,1,Appliances,Fridge,Cash
+B-26004,1/4/2019,Chetna,Tamil Nadu,Chennai,B-26004,450,100,5,Furniture,Sofa,Debit Card
+B-26005,1/5/2019,Dinesh,Kerala,Kochi,B-26005,180,45,2,Office Supplies,Stationery,Paytm
+B-26006,1/6/2019,Farhan,West Bengal,Kolkata,B-26006,120,20,3,Books,Fiction,Online
+B-26007,1/7/2019,Gaurav,Uttar Pradesh,Lucknow,B-26007,350,90,1,Electronics,Laptop,Credit Card
+B-26008,1/8/2019,Harish,Madhya Pradesh,Indore,B-26008,150,35,2,Clothing,Trousers,Cash
+B-26009,1/9/2019,Isha,Jammu and Kashmir,Srinagar,B-26009,500,150,1,Sporting Goods,Cricket Kit,Credit Card
+B-26010,1/10/2019,Joy,Rajasthan,Jaipur,B-26010,850,200,4,Furniture,Bed,Online
+B-26011,1/11/2019,Kriti,Punjab,Chandigarh,B-26011,240,50,3,Clothing,Dresses,Credit Card
+B-26012,1/12/2019,Lokesh,Haryana,Gurgaon,B-26012,700,120,6,Electronics,Camera,Paytm
+B-26013,2/1/2019,Mala,Chhattisgarh,Raipur,B-26013,140,30,4,Office Supplies,Binders,Cash
+B-26014,2/2/2019,Nikhil,Bihar,Patna,B-26014,110,25,2,Books,Textbooks,Online
+B-26015,2/3/2019,Om,Assam,Dispur,B-26015,310,70,1,Automotive,Car Accessories,Credit Card
+B-26016,2/4/2019,Prachi,Odisha,Bhubaneswar,B-26016,290,65,2,Food,Snacks,Paytm
+B-26017,2/5/2019,Qadir,Uttarakhand,Dehradun,B-26017,400,85,5,Health,Proteins,Cash
+B-26018,2/6/2019,Rahul,Telangana,Hyderabad,B-26018,350,75,3,Furniture,Chairs,Credit Card
+B-26019,2/7/2019,Smita,Goa,Panaji,B-26019,220,45,4,Toys,Dolls,Online
+B-26020,2/8/2019,Tina,Andhra Pradesh,Vishakhapatnam,B-26020,500,120,1,Appliances,Microwave,Credit Card
+B-26021,2/9/2019,Uday,Mizoram,Aizawl,B-26021,180,40,1,Clothing,Shoes,Cash
+B-26022,2/10/2019,Vijay,Nagaland,Kohima,B-26022,210,45,2,Books,Comics,Online
+B-26023,2/11/2019,Wei,Sikkim,Gangtok,B-26023,130,30,3,Beauty,Skincare,Paytm
+B-26024,2/12/2019,Yogesh,Meghalaya,Shillong,B-26024,400,100,2,Sporting Goods,Football Gear,Credit Card
+B-26025,3/1/2019,Zara,Manipur,Imphal,B-26025,300,80,2,Food,Organic Products,Cash
+B-26026,3/2/2019,Abhay,Arunachal Pradesh,Itanagar,B-26026,110,20,1,Office Supplies,Pens,Online
+B-26027,3/3/2019,Bhoomi,Tripura,Agartala,B-26027,600,150,3,Electronics,Speakers,Paytm
+B-26028,3/4/2019,Chandan,Himachal Pradesh,Shimla,B-26028,340,70,5,Clothing,Jackets,Credit Card
+B-26029,3/5/2019,Dev,Uttar Pradesh,Kanpur,B-26029,280,60,2,Appliances,Toaster,Cash
+B-26030,3/6/2019,Ekta,Gujarat,Surat,B-26030,170,40,1,Beauty,Fragrances,Online
+B-26031,3/7/2019,Faizal,Karnataka,Mysore,B-26031,500,120,3,Automotive,Bike Accessories,Credit Card
+B-26032,3/8/2019,Gunjan,Maharashtra,Pune,B-26032,240,55,2,Food,Beverages,Paytm
+B-26033,3/9/2019,Hema,Tamil Nadu,Coimbatore,B-26033,360,75,1,Health,Vitamins,Cash
+B-26034,3/10/2019,Indrajit,Kerala,Thiruvananthapuram,B-26034,480,110,3,Furniture,Table,Online
+B-26035,3/11/2019,Jyoti,West Bengal,Darjeeling,B-26035,320,65,4,Books,Non-Fiction,Credit Card
+B-26036,3/12/2019,Kailash,Rajasthan,Udaipur,B-26036,200,45,2,Office Supplies,Envelopes,Paytm
+B-26037,4/1/2019,Lata,Punjab,Amritsar,B-26037,400,85,5,Sporting Goods,Tennis Equipment,Cash
+B-26038,4/2/2019,Manav,Haryana,Faridabad,B-26038,150,25,1,Toys,Board Games,Online
+B-26039,4/3/2019,Naina,Chhattisgarh,Bhilai,B-26039,210,50,2,Food,Gourmet,Credit Card
+B-26040,4/4/2019,Om,Punjab,Ludhiana,B-26040,180,35,3,Beauty,Hair Care,Debit Card
+B-26041,4/5/2019,Praveen,Madhya Pradesh,Bhopal,B-26041,500,120,4,Electronics,TV,Cash
+B-26042,4/6/2019,Qasim,Jammu and Kashmir,Jammu,B-26042,300,75,2,Office Supplies,Chairs,Paytm
+B-26043,4/7/2019,Ritu,Uttar Pradesh,Varanasi,B-26043,140,30,1,Books,Magazines,Online
+B-26044,4/8/2019,Sanjay,Telangana,Secunderabad,B-26044,220,50,2,Clothing,T-shirts,Debit Card
+B-26045,4/9/2019,Tarun,Goa,Margao,B-26045,340,90,3,Automotive,Oil,Online
+B-26046,4/10/2019,Uma,Andhra Pradesh,Tirupati,B-26046,450,120,4,Furniture,Wardrobe,Credit Card
+B-26047,4/11/2019,Vinod,Mizoram,Lunglei,B-26047,320,80,1,Sporting Goods,Badminton Gear,Cash
+B-26048,4/12/2019,Weena,Nagaland,Dimapur,B-26048,180,40,2,Health,Supplements,Paytm
+B-26049,5/1/2019,Yatin,Sikkim,Namchi,B-26049,150,30,1,Books,Educational,Online
+B-26050,5/2/2019,Zeeshan,Meghalaya,Tura,B-26050,700,175,3,Electronics,Sound Systems,Credit Card
